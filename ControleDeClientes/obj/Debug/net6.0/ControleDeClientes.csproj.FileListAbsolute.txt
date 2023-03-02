@@ -1,0 +1,15 @@
+C:\Users\Weverton\Documents\Controle de Clientes\ControleDeClientes\obj\Debug\net6.0\ControleDeClientes.csproj.AssemblyReference.cache
+C:\Users\Weverton\Documents\Controle de Clientes\ControleDeClientes\obj\Debug\net6.0\ControleDeClientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Weverton\Documents\Controle de Clientes\ControleDeClientes\obj\Debug\net6.0\ControleDeClientes.AssemblyInfoInputs.cache
+C:\Users\Weverton\Documents\Controle de Clientes\ControleDeClientes\obj\Debug\net6.0\ControleDeClientes.AssemblyInfo.cs
+C:\Users\Weverton\Documents\Controle de Clientes\ControleDeClientes\obj\Debug\net6.0\ControleDeClientes.csproj.CoreCompileInputs.cache
+C:\Users\Weverton\Documents\Controle de Clientes\ControleDeClientes\bin\Debug\net6.0\ControleDeClientes.exe
+C:\Users\Weverton\Documents\Controle de Clientes\ControleDeClientes\bin\Debug\net6.0\ControleDeClientes.deps.json
+C:\Users\Weverton\Documents\Controle de Clientes\ControleDeClientes\bin\Debug\net6.0\ControleDeClientes.runtimeconfig.json
+C:\Users\Weverton\Documents\Controle de Clientes\ControleDeClientes\bin\Debug\net6.0\ControleDeClientes.dll
+C:\Users\Weverton\Documents\Controle de Clientes\ControleDeClientes\bin\Debug\net6.0\ControleDeClientes.pdb
+C:\Users\Weverton\Documents\Controle de Clientes\ControleDeClientes\obj\Debug\net6.0\ControleDeClientes.dll
+C:\Users\Weverton\Documents\Controle de Clientes\ControleDeClientes\obj\Debug\net6.0\refint\ControleDeClientes.dll
+C:\Users\Weverton\Documents\Controle de Clientes\ControleDeClientes\obj\Debug\net6.0\ControleDeClientes.pdb
+C:\Users\Weverton\Documents\Controle de Clientes\ControleDeClientes\obj\Debug\net6.0\ControleDeClientes.genruntimeconfig.cache
+C:\Users\Weverton\Documents\Controle de Clientes\ControleDeClientes\obj\Debug\net6.0\ref\ControleDeClientes.dll
